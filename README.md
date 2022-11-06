@@ -1,10 +1,6 @@
-# Project Lyrics
+# Music-Bits
 
 Develop an elegant React.js Music Application. 
-
-
-
-
 
 ## System Requirements
 
