@@ -1,5 +1,5 @@
 # Music-Bits
-Music-Bits is a music web-app that provides user a better version of Spotify by learning contemporary web development. With a contemporary homepage, an extensive music player, lyrics, song exploration tools, search, nearby popular music, and global top charts. The App uses Shazam-core API(Rapid API->https://rapidapi.com/tipsters/api/shazam-core) for Music fetching. The app is built on Reactjs, Typescript, React-Router-Dom, Axios, Swipper and provides base to the application. This application consists of various catagories of music(Hip-hop, rock, dance etc..)
+Music-Bits is a music web-app that provides user a better version of Spotify by learning contemporary web development. With a contemporary homepage, an extensive music player, lyrics, song exploration tools, search, nearby popular music, and global top charts. The App uses Shazam-core API(Rapid API->https://rapidapi.com/tipsters/api/shazam-core) for Music fetching. The app is built on Reactjs, Typescript, React-Router-Dom, Axios, Swipper and provides base to the application. This application consists of various categories of music(Hip-hop, rock, dance etc..)
 based on the user selection. 
 
 The Project is Deployed on Netlify... https://music-bits.netlify.app/
